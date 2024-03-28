@@ -1,0 +1,8 @@
+first
+відлуння "# Тест" >> README.md
+git init
+git додати README.md
+git commit -m "перший коміт"
+Гілка git -M main
+git remote add origin https://github.com/Varsentiy/Test.git
+git push -u походження main
